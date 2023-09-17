@@ -1,0 +1,41 @@
+# Ignore generated files
+
+node_modules/
+dist/
+bazel-out/
+integration/
+bazel/*
+*.log
+
+# Ignore cache files
+
+npm-debug.log
+yarn-error.log
+
+# Ignore build analytics
+
+.build-analytics
+
+# Ignorerollup-test output
+
+/modules/rollup-test/dist/
+
+# Ignore user specific bazel settings
+
+.bazelrc.user
+
+# Ignore user specific ng-dev settings
+
+.ng-dev.user*
+
+# Ignore baseline.json
+
+baseline.json
+
+# Ignore .history for the xyz.local-history VSCode extension
+
+.history
+
+# Ignore Husky
+
+.husky/_aio/content/examples/.DS_Store.
