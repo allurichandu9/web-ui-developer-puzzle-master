@@ -5,3 +5,4 @@
    2. Better to add code coverage for unit test cases
    3. Code structure is difficult to understand, Better to design the application as microfront end.
    4. Need to be added .gitignore file to excluse uwanted files Ex: /node_modules
+   5. There is no file in apps/okreads-e2e/src/specs/search-books.spec.ts.
